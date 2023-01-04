@@ -46,7 +46,7 @@
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aditya30394&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aditya30394&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya30394&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&text_color=#fff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya30394&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&text_color=#fff)
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=aditya30394&theme=onedark&column=3&margin-w=15&margin-h=15) -->
 
 <br>
