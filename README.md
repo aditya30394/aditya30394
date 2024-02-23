@@ -107,3 +107,6 @@
 
 </div>
 </div>
+
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=aditya30394&column=8)](https://github-profile-trophy.vercel.app/?username=aditya30394&column=8)
